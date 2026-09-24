@@ -200,10 +200,10 @@ resqnet.html (Landing Page)
 ## 👩‍💻 My Contribution
 
 - Built the React.js frontend
-- Designed dashboards and UI components
-- Implemented the SOS priority scoring algorithm
-- Developed emergency request ranking logic
-- Integrated frontend with backend APIs
+- Design the basic UI and UI componenets
+- Managed environmental variables and secure Vercel and Render
+- Developed the SOS priority scoring algorithm with time decay and priority level classification 
+- Contributed to testing , bebugging and UI improvements
 
 ## 🔒 Security
 
