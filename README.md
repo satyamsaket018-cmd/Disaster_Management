@@ -203,7 +203,7 @@ resqnet.html (Landing Page)
 - Design the basic UI and UI componenets
 - Managed environmental variables and secure Vercel and Render
 - Developed the SOS priority scoring algorithm with time decay and priority level classification 
-- Contributed to testing , bebugging and UI improvements
+- Contributed to testing , debugging and UI improvements
 
 ## 🔒 Security
 
